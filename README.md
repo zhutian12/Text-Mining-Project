@@ -1,1 +1,2 @@
 # Text-Mining-Project
+Using the reviews provided in the csv file called “reviews.csv” to conduct text mining. This file contains approximately 178,000 reviews of properties in the Boston area. In this file, we have very little information about the properties—we really just have a date and a review.  Essentially, we will use qdap, tm , tidytext and RWeka package to develop some insights from these reviews 
